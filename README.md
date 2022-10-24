@@ -47,6 +47,7 @@ rows; it cannot be solved by brute force, and requires a clever method!
 
 Part 2: Find the maximum total from top to bottom in triangle.txt a 15K text file
 containing a triangle with one-hundred rows.
+
 NOTE: It is not possible to try every route to solve this problem, as there are 299 altogether! If
 you could check one trillion (1012) routes every second it would take over twenty billion years to
 check them all. There is an efficient algorithm to solve it.
